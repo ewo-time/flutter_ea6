@@ -63,7 +63,7 @@ class QuizBrain {
         );
       } else {
         scorekeeper.add(
-          Icon(Icons.check, color: Colors.red),
+          Icon(Icons.close, color: Colors.red),
         );
       }
     }
